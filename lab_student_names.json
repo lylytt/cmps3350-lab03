@@ -1,8 +1,13 @@
 {
   "students": [
-    {
+    { 
+          "name": "Jared Torres",
+          "github": "jtorres204"
+    },
+  { 
       "name": "student-name",
       "github": "github-username"
-    }
+  }
+
   ]
 }
