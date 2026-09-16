@@ -1,6 +1,10 @@
 {
   "students": [
     {
+       "name": "Armando-Vargas",
+       "github": "ArmandoVargasArciga"
+    },
+    {
       "name": "student-name",
       "github": "github-username"
     }
