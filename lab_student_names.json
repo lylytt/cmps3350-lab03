@@ -17,8 +17,8 @@
       "github": "brian-armijo"
     },
     {
-		 "name": "Osvaldo",
-		 "github": "Obeltran3"
+	  "name": "Osvaldo",
+	   "github": "Obeltran3"
     },
     {
       "name": "maika",
@@ -44,10 +44,10 @@
       "name": "aramirezlope",
       "github": "adelina570"
     },
-	  {
-		  "name": "kyle-duncan",
-		  "github": "kduncan12"
-	  },
+	{
+		"name": "kyle-duncan",
+		"github": "kduncan12"
+	},
     {
       "name": "abbygaile",
       "github": "abagby108"
@@ -93,7 +93,7 @@
       "github": "giogarciaa"
     },
     {
-      "python3name": "rjaramillo",
+      "name": "rjaramillo",
       "github": "rjaramillo4-cpu"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "name": "student-name",
-      "github": "github-username",
+      "github": "github-username"
     },
     {
       "name": "Oscar Reyes",
