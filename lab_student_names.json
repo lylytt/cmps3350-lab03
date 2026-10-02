@@ -1,6 +1,10 @@
 {
   "students": [
     {
+      "name": "Julian Hernandez",
+      "github": "TheYoshiBros"
+    },
+    {
       "name": "Brian Armijo",
       "github": "brian-armijo"
     },
