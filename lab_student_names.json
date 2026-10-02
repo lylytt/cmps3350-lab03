@@ -1,12 +1,112 @@
 {
   "students": [
-      {
-          "name": "Nicolas Garza",
-          "github": "548879"
-      },
+    {
+      "name": "Nicolas Garza",
+      "github": "548879"
+    },
+    { 
+      "name": "Jared Torres",
+      "github": "jtorres204"
+    },
+    {
+      "name": "Julian Hernandez",
+      "github": "TheYoshiBros"
+    },
+    {
+      "name": "Brian Armijo",
+      "github": "brian-armijo"
+    },
+    {
+		 "name": "Osvaldo",
+		 "github": "Obeltran3"
+    },
+    {
+      "name": "maika",
+      "github": "MaikaFrann"
+    },
+    {
+      "name": "Emily",
+      "github": "pawtell"
+    }, 
+    { 
+      "name": "Antonio Castellanos",
+      "github": "acaste23"
+    },
+    {
+      "name":"lea",
+       "github": "Jamalea123-fall26"
+    },
+    {
+      "name": "12019",
+      "github": "redageddon"
+    },
+    {
+      "name": "aramirezlope",
+      "github": "adelina570"
+    },
+	  {
+		  "name": "kyle-duncan",
+		  "github": "kduncan12"
+	  },
+    {
+      "name": "abbygaile",
+      "github": "abagby108"
+    },
+    { 
+      "name": "Jonathan-Torres",
+      "github": "JTorres580"
+    },
+    {
+      "name": "Erik-Gastelum",
+      "github": "ErikGastelum"
+    },
+    {
+      "name": "Chazz Carrizales",
+      "github": "czcarrizales"
+    },
+    {
+      "name": "Jacob Micu",
+      "github": "jaobjoshm"
+    },
+    {
+      "name": "ly",
+      "github": "ly-fall26"
+    },
+    {
+      "name": "Angel Cortes",
+      "github": "CoderAngelPro"
+    },
+    {
+      "name": "Alexis",
+      "github": "ShujinEmpire"
+    },
+    {
+      "name": "Sam Shahin",
+      "github": "sam-shahin"
+    },
+    {
+       "name": "Armando-Vargas",
+       "github": "ArmandoVargasArciga"
+    },
+    {
+      "name": "Alexis Garcia",
+      "github": "giogarciaa"
+    },
+    {
+      "python3name": "rjaramillo",
+      "github": "rjaramillo4-cpu"
+    },
+    {
+      "name": "James Holsonbake",
+      "github": "j-holsonbake"
+    },
     {
       "name": "student-name",
-      "github": "github-username"
+      "github": "github-username",
+    },
+    {
+      "name": "Oscar Reyes",
+      "github": "oscrys"
     }
   ]
 }
