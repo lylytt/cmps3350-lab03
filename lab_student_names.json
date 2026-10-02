@@ -1,8 +1,8 @@
 {
   "students": [
     { 
-          "name": "Jared Torres",
-          "github": "jtorres204"
+      "name": "Jared Torres",
+      "github": "jtorres204"
     },
     {
       "name": "Julian Hernandez",
@@ -83,6 +83,10 @@
     {
        "name": "Armando-Vargas",
        "github": "ArmandoVargasArciga"
+    },
+    {
+      "name": "Alexis Garcia",
+      "github": "giogarciaa"
     },
     {
       "name": "student-name",
